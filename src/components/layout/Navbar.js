@@ -189,7 +189,7 @@ class Navbar extends Component {
                 </div>
             </div>
 
-            <p className="footer__copy">&#169; 2021 Bedimcode. All right reserved</p>
+            <p className="footer__copy">&#169; 2021 P. All right reserved</p>
         </footer>
     </Fragment>
 
